@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nebiye! <br/><a href="https://github.com/NebiyeYilmaz">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/nebiye-yilmaz/">Cybersecurity Professional</a>
+<h1>Hi, I'm Nebiye! <br/><a href="https://github.com/NebiyeYilmaz">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/nebiye-yilmaz/">SOC Analyst</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
